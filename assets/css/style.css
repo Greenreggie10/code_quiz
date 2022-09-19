@@ -20,7 +20,13 @@ header {
 /* High score link */
 .view-score {
     color: var(--secondary-color);
-    text-decoration: none;
+    margin: 20px;
+    padding: 6px 12px;
+    font-size: 17px;
+    font-weight: bolder;
+    background: var(--blue);
+    outline: none;
+    border: none;
 }
 
 /* style applies to everything in the main tag */
